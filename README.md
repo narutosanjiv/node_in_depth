@@ -30,3 +30,17 @@ Hash3   1205
 Hash5   2296
 ```
 With UV_THREADPOOL_SIZE = 6
+```
+Function  | Total Time 
+______________________
+File Read 37
+https 239
+Hash1 1539
+Hash2 1566
+Hash5 1568
+Hash3 1571
+Hash4 1596
+
+```
+
+
